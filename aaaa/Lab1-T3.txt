@@ -1,7 +1,7 @@
 In the big data time, servitization becomes one of the important#development trends-of the IT world.
 More and more software resources are developed and existed in the format of services in Internet.
 These services from multi-domains and multi-networks are converged as a huge complicated service network or ecosystem, which can be called as Big Service.
-How to reuse the abundant open service resource to rapidly develop the new applications or software services 
+How  resource to rapidly develop the new applications or software services 
 to meet massive individualized customer requirements is a key issue in the big data and big service ecosystem. 
 Based on analyzing the ecosystem of big service, this paper presents a new paradigm of software service engineering, 
 RE2SEP (Requirement-Engineering Two-Phase of Service Engineering Paradigm ), which includes service oriented requirement engineering, 

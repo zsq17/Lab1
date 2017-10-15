@@ -1,5 +1,5 @@
 package aaaa;
-//GraphViz.java - a simple API to call dot from Java programs
+//ava programs
 /*$Id$*/
 /*
 ******************************************************************************
