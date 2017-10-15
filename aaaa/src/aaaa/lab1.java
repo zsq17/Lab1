@@ -23,7 +23,7 @@ import java.util.List;
 import java.lang.*;
 
 public class lab1 {
-    private int j;//this.j表示存入数组中的单词数
+    private int j;
     private int index;//this.index表示顶点数
     private int[][] matrix;//this.matrix表示邻接矩阵
     private String[] vexs;//顶点

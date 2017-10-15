@@ -36,7 +36,7 @@ public class abc {
         
         f.setLayout(new FlowLayout());
         f.setLayout(null);
-        //添加按钮
+        
         Button bu1 = new Button("1.生成有向图");
         Button bu2 = new Button("2.展示有向图");
         Button bu3 = new Button("3.查询桥接词");
