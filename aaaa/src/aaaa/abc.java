@@ -64,7 +64,7 @@ public class abc {
         String filePath = "C:\\Users\\hasee\\Desktop\\test1.txt";
 	    lab1 Lab1 = new lab1();
 	    
-	    //生成有向图
+	  
         bu1.addActionListener(new ActionListener(){ 
         	public void actionPerformed(ActionEvent e) {
         	    Lab1.readTxtFile(filePath, WORD);
