@@ -359,4 +359,4 @@ public class lab1 {
     public static void main(String[] args){
         lab1 m = new lab1();
     }
-}
+}//weqeqeqw

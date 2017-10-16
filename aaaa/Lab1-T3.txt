@@ -11,4 +11,5 @@ A case study of the RE2SEP applications, which is a project on citizen¡¯s mobili
 The RE2SEP paradigm will change the way of traditional life-cycle oriented software engineering, and lead a new approach of software service engineering.
 
 author:xhc@hit.edu.cn
+....
 
