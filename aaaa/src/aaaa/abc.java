@@ -135,7 +135,7 @@ public class abc {
         });
 
 
-        // ´°ÌוÏÔÊ¾
+        
         f.setVisible(true);
         
     }

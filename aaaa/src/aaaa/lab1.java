@@ -55,7 +55,7 @@ public class lab1 {
                         words[i]= words[i].toLowerCase();
                         word[this.j] = words[i];
                         this.j++;
-//                        System.out.println(words[i].toLowerCase());                  
+                
                 	}
                     num++;
                 }
